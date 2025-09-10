@@ -278,3 +278,5 @@ babel.config.js
 .eslintrc.js
 node_modules
 main.mjs
+tsconfig.json
+webpack.config.js
