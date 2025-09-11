@@ -214,7 +214,6 @@ __marimo__/
 .pnp.js
 nodesource_setup.sh
 package-lock.json
-package.json
 main.js
 
 # testing
@@ -275,8 +274,5 @@ robots.txt
 /playwright/.cache/
 
 babel.config.js
-.eslintrc.js
 node_modules
 main.mjs
-tsconfig.json
-webpack.config.js
